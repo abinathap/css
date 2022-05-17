@@ -1,0 +1,26 @@
+#head {
+    text-decoration: underline;
+}
+.fieldset-auto-width {
+
+    display: inline-block;
+    
+}  
+.bgcolor {
+    background-color: lightblue;
+}
+div {
+    justify-content: center;
+}
+.center {
+    text-align: center;
+}
+.margin {
+    margin-left: 50px;
+}
+.margin2 {
+    margin-left: 70px;
+}
+.margin3 {
+    margin-left: 40px;
+}

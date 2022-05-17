@@ -1,0 +1,17 @@
+#head {
+color:aqua;
+text-align: center;
+}
+div {
+    background-color: white;
+  width: 200px;
+  border: 15px solid powderblue;
+  padding: 50px;
+  margin: 20px;
+}
+.color {
+    color:red;
+}
+.small {
+    font-size:90%;
+}
